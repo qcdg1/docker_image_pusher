@@ -1,2 +1,5 @@
-cr.agentgateway.dev/controller:v1.3.1
-cr.agentgateway.dev/agentgateway:v1.3.1
+# cr.agentgateway.dev/controller:v1.3.1
+# cr.agentgateway.dev/agentgateway:v1.3.1
+
+# Active images for the latest manual mirror run.
+ghcr.io/headlamp-k8s/headlamp:latest
