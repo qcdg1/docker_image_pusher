@@ -4,4 +4,7 @@
 # Active images for the latest manual mirror run.
 # ghcr.io/headlamp-k8s/headlamp:latest
 # lixeer/valley-server:v26.5
-sdvd/server:latest
+# sdvd/server:latest
+mcr.microsoft.com/dotnet/sdk:10.0
+mcr.microsoft.com/dotnet/aspnet:10.0
+oven/bun:1.3.14-alpine
