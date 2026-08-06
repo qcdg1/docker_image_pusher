@@ -8,5 +8,5 @@
 # mcr.microsoft.com/dotnet/sdk:10.0
 # mcr.microsoft.com/dotnet/aspnet:10.0
 # oven/bun:1.3.14-alpine
-python:2.7.18
-python:3.11
+python:2.7.18-slim
+python:3.11-slim
