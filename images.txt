@@ -10,4 +10,6 @@
 # oven/bun:1.3.14-alpine
 # python:2.7.18-slim
 # python:3.11-slim
-anxiyizhi/stardew-server-anxi-panel:0.4.8
+# anxiyizhi/stardew-server-anxi-panel:0.4.8
+grafana/grafana:nightly-ubuntu
+ubuntu/prometheus:3.11-26.04_stable
