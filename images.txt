@@ -11,5 +11,9 @@
 # python:2.7.18-slim
 # python:3.11-slim
 # anxiyizhi/stardew-server-anxi-panel:0.4.8
-grafana/grafana:nightly-ubuntu
-ubuntu/prometheus:3.11-26.04_stable
+# grafana/grafana:nightly-ubuntu
+# ubuntu/prometheus:3.11-26.04_stable
+
+# Active images for agentgateway v1.4.1 mirror run.
+cr.agentgateway.dev/controller:v1.4.1
+cr.agentgateway.dev/agentgateway:v1.4.1
