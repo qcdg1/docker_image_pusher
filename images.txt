@@ -22,4 +22,7 @@
 # anxiyizhi/junimo-steam-service-cn:1.5.0-anxi.2
 
 # Active images for sdvd server 1.5.0 preview 125 mirror run.
-sdvd/server:1.5.0-preview.125
+# sdvd/server:1.5.0-preview.125
+
+# Active images for steamcmd latest mirror run.
+steamcmd/steamcmd:latest
