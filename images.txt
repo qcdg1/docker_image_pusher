@@ -15,5 +15,8 @@
 # ubuntu/prometheus:3.11-26.04_stable
 
 # Active images for agentgateway v1.4.1 mirror run.
-cr.agentgateway.dev/controller:v1.4.1
-cr.agentgateway.dev/agentgateway:v1.4.1
+# cr.agentgateway.dev/controller:v1.4.1
+# cr.agentgateway.dev/agentgateway:v1.4.1
+
+# Active images for junimo steam service cn 1.5.0 mirror run.
+docker.1ms.run/anxiyizhi/junimo-steam-service-cn:1.5.0-anxi.2
