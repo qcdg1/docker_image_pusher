@@ -19,4 +19,7 @@
 # cr.agentgateway.dev/agentgateway:v1.4.1
 
 # Active images for junimo steam service cn 1.5.0 mirror run.
-anxiyizhi/junimo-steam-service-cn:1.5.0-anxi.2
+# anxiyizhi/junimo-steam-service-cn:1.5.0-anxi.2
+
+# Active images for sdvd server 1.5.0 preview 125 mirror run.
+sdvd/server:1.5.0-preview.125
