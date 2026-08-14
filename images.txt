@@ -19,4 +19,4 @@
 # cr.agentgateway.dev/agentgateway:v1.4.1
 
 # Active images for junimo steam service cn 1.5.0 mirror run.
-docker.1ms.run/anxiyizhi/junimo-steam-service-cn:1.5.0-anxi.2
+anxiyizhi/junimo-steam-service-cn:1.5.0-anxi.2
