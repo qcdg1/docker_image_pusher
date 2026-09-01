@@ -28,4 +28,7 @@
 # steamcmd/steamcmd:latest
 
 # Active images for node 22.22 bookworm slim mirror run.
-node:22.22-bookworm-slim
+# node:22.22-bookworm-slim
+
+# Active images for prom alertmanager v0.34.0 mirror run.
+prom/alertmanager:v0.34.0
