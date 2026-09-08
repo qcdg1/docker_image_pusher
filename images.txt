@@ -31,4 +31,7 @@
 # node:22.22-bookworm-slim
 
 # Active images for prom alertmanager v0.34.0 mirror run.
-prom/alertmanager:v0.34.0
+# prom/alertmanager:v0.34.0
+
+# Active images for ubuntu 24.04 mirror run.
+ubuntu:24.04
