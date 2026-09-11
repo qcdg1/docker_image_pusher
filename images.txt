@@ -37,4 +37,7 @@
 # ubuntu:24.04
 
 # Active images for grafana 13.0.8 mirror run.
-grafana/grafana:13.0.8
+# grafana/grafana:13.0.8
+
+# Active images for prom prometheus v3.13.3 mirror run.
+prom/prometheus:v3.13.3
