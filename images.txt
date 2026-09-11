@@ -34,4 +34,7 @@
 # prom/alertmanager:v0.34.0
 
 # Active images for ubuntu 24.04 mirror run.
-ubuntu:24.04
+# ubuntu:24.04
+
+# Active images for grafana 13.0.8 mirror run.
+grafana/grafana:13.0.8
