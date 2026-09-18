@@ -43,4 +43,7 @@
 # prom/prometheus:v3.13.3
 
 # Active images for gitlab runner v19.4.0 mirror run.
-gitlab/gitlab-runner:v19.4.0
+# gitlab/gitlab-runner:v19.4.0
+
+# Active images for node 20.19.0 alpine mirror run.
+node:20.19.0-alpine
