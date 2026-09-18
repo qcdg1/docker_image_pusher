@@ -40,4 +40,7 @@
 # grafana/grafana:13.0.8
 
 # Active images for prom prometheus v3.13.3 mirror run.
-prom/prometheus:v3.13.3
+# prom/prometheus:v3.13.3
+
+# Active images for gitlab runner v19.4.0 mirror run.
+gitlab/gitlab-runner:v19.4.0
